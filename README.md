@@ -1,10 +1,10 @@
 <div align="center">
 
-# Starship-AppImage 🐧
+# Starship-AppImage-Enhanced 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Starship-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Starship-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/Starship-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Starship-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Starship-AppImage)](https://github.com/pkgforge-dev/Starship-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Starship-AppImage-Enhanced/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Starship-AppImage-Enhanced/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/Starship-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Starship-AppImage-Enhanced/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Starship-AppImage-Enhanced)](https://github.com/pkgforge-dev/Starship-AppImage-Enhanced/releases/latest)
 
 <p align="center">
   <img src="https://github.com/HarbourMasters/Starship/blob/main/logo.png" width="128" />
@@ -13,7 +13,7 @@
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/Starship-AppImage/releases/latest) | [Click here](https://github.com/HarbourMasters/Starship) |
+| [Click here](https://github.com/pkgforge-dev/Starship-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/HarbourMasters/Starship) |
 
 </div>
 
